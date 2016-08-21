@@ -8,6 +8,8 @@ I have created a quick intro video (it has audio) in the homepage explaining wha
 Important thoughts (Problems vs solutions): 
 Provide the best way to analyze large data sets. This app should display graphics of all the values in the Database. It's also a good practice to quickly identify the minimum, maximum and averages values of large data sets. Use graphics, research about the best way to display the data in an easy but appealing visual way. I have created an "ideation" folder in the root where you will find images related to how I started to think about the requested challenge. There are also some layouts that I don't expect them to be considered for the "World best web design magazine" :)
 
+I DO NOT recomment to test the "import" functionality in the top right corner of the app for this version. I've found that it will take too long for large json files and that a better solution would be necesary for example create a Asynchronous Method or a Cron task etc. But my thinking was to provide a way to upload new json files to be Analyzed which I partially accomplished for smaller files (I guess)
+
 Technologies: 
 1. PHP 5.4 
 2. jQuery 
